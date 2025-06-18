@@ -3,8 +3,6 @@
 ## Overview
 This repository contains the implementation of the FEMA framework, which enables generative agents to exhibit human-like emotional perception and expression. The goal of FEMA is to enhance the realism of agents by incorporating emotional variability and personality-driven responses, making interactions more engaging and contextually relevant.
 
-This project is part of the **CHI 2025** paper submission titled *"FEMA: Emotion-Driven Personification in Generative Agents."*
-
 ## Features
 - **Emotion Perception and Expression**: Agents perceive and express a range of emotions, ensuring human-like interactions.
 - **Personality Customization**: Each agent can be tailored to a specific personality, influencing their behavior and responses.
